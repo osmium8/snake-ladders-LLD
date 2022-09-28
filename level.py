@@ -7,3 +7,9 @@ class Level():
 
     def get_board_size(self):
         return self.board_size
+    
+    def get_name(self):
+        return self.name
+
+    def get_music_theme(self):
+        return self.music_theme
