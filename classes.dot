@@ -1,0 +1,5 @@
+digraph "classes" {
+rankdir=BT
+charset="utf-8"
+"board.Board" [color="black", fontcolor="black", label="{Board|ladders : list\lsize\lsnakes : list\l|get_ladder_dest(pos)\lget_snake_tail(pos)\lis_ladder_present(pos)\lis_snake_present(pos)\lplace_ladder(ladder)\lplace_snake(snake)\l}", shape="record", style="solid"];
+}
