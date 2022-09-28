@@ -13,6 +13,28 @@
 7. All I/O via console
 8. The focus was on class design so input error handling is not implemented yet
 
+## Run
+1. clone repo
+2. open terminal in the cloned repo directory and `$ python main.py`
+
+## Sample tests
+```
+Easy
+2
+Player1
+Player2
+<keep pressing enter>
+```
+```
+Medium
+5
+Player1
+Player2
+Player3
+Player4
+Player5
+<keep pressing enter>
+```
 
 ## Sample output
 ```
