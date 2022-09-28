@@ -7,3 +7,9 @@ class Snake():
 
 	def __eq__(self, other):
 		return self.head == other.head and self.tail == other.tail
+
+	def get_head(self):
+		return self.head
+
+	def get_tail(self):
+		return self.tail
